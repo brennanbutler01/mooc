@@ -1,6 +1,7 @@
 
 import java.util.ArrayList;
 import java.util.Scanner;
+import java.util.Arrays;
 
 public class Searching {
 
@@ -44,10 +45,39 @@ public class Searching {
     }
 
     public static int linearSearch(ArrayList<Book> books, int searchedId) {
+        int i=0;
+        for (Book book : books) {
+            if (book.getId() == searchedId) {
+                return i;
+            }
+            i++;
+        }
         return -1;
     }
 
     public static int binarySearch(ArrayList<Book> books, long searchedId) {
+        int i=0;
+        int middle = 0;
+        int start = 0;
+        int end = books.size() - 1 ;
+
+        if (books.size() == 1) {
+            return middle;
+        }
+        middle = (int) Math.floor((start + end) / 2);
+
+        if (books.get(middle).getId() == searchedId) {
+            return middle;
+        }
+        if (books.get(middle).getId() < searchedId){
+            start = middle + 1;
+        }
+        if (books.get(middle).getId() > searchedId) {
+            middle--;
+        }
+
+        //TODO make this into a recursive function
+
         return -1;
     }
 }
