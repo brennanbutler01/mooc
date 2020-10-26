@@ -4,6 +4,7 @@ public class Main {
 
     public static void main(String[] args) {
             int[] array = {3, 1, 5, 99, 3, 12};
+            int a =0 ;
     }
 
 }
