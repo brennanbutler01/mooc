@@ -15,6 +15,7 @@ public class UI {
             int points = Integer.valueOf(scanner.nextLine());
             if (points == -1) {
                 this.grade.printAll();
+                System.out.println("Point average (all): " + grade.averagePoints());
                 break;
             }
             this.grade.addPoints(points);
