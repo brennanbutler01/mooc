@@ -26,6 +26,39 @@ public class Grades {
             sum += point;
         }
         return (double) sum / points.size();
+    }
 
+    public double averagePassingPoints() {
+        int sum = 0;
+        int count = 0;
+
+        for (Integer point : points) {
+            if (point >= 50) {
+                sum += point;
+                count++;
+            }
+        }
+
+        if (count == 0) {
+            return -1;
+        }
+
+        return (double) sum/count;
+    }
+
+    public double passPercentage() {
+        int count = 0;
+
+
+        for (Integer point : points) {
+            if (point >= 50) {
+                count++;
+            }
+        }
+        if (count == 0) {
+            return 0.0;
+        }
+
+        return 100 * (count/points.size());
     }
 }
