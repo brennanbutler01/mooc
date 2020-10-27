@@ -18,6 +18,7 @@ public class UI {
             System.out.println("Point average (passing): " + grade.averagePassingPoints());
         }
         System.out.println("Passing percentage: " + grade.passPercentage());
+        this.grade.printGradeDistribution();
 
     }
 

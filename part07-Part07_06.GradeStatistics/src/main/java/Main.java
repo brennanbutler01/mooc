@@ -8,7 +8,5 @@ public class Main {
         Grades grades = new Grades();
         UI ui = new UI (scanner, grades);
         ui.start();
-
-
     }
 }
