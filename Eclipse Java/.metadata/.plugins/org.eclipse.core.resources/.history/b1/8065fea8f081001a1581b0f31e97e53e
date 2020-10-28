@@ -1,0 +1,48 @@
+package Tutorial13;
+
+class Person {
+	//instance variables = data or state
+	String Name; 
+	int Age;
+	
+	
+	
+	//classes can contain
+	
+	//1. data
+	//2. methods/subroutines
+	
+}
+
+class Basil {
+	
+	String FavoriteFood;
+	int Age;
+	boolean Pregnant;
+}
+
+public class Tutorial13 {
+
+	public static void main(String[] args) {
+		System.out.println("Hello World");
+		System.out.println("How are you?");
+
+			Person person1 = new Person();
+			person1.Name = "Jim B";
+			person1.Age = 40;
+			
+			Person person2 = new Person();
+			
+			person2.Name = "Sarah Smith";
+			person2.Age = 20;
+			
+		System.out.println(person2.Age);
+			
+			Basil basil1 = new Basil();
+			basil1.Age = 15;
+			basil1.Pregnant = true;
+			basil1.FavoriteFood = "Chicken";
+			
+			System.out.println(basil1.FavoriteFood);
+}
+
