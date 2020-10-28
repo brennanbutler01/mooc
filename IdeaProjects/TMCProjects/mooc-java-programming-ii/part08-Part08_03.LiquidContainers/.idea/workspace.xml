@@ -1,12 +1,605 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
+  <component name="BranchesTreeState">
+    <expand>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="LOCAL_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="REMOTE_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="REMOTE_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="GROUP_NODE:origin" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+    </expand>
+    <select />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="a4ee3719-1d7f-4176-a89b-c24dfafae99e" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/../../mooc-java-programming-i/part01-Part01_01.Sandbox/Part01_01.Sandbox.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../mooc-java-programming-i/part01-Part01_02.AdaLovelace/Part01_02.AdaLovelace.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../mooc-java-programming-i/part01-Part01_03.OnceUponATime/Part01_03.OnceUponATime.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../mooc-java-programming-i/part01-Part01_04.Dinosaur/Part01_04.Dinosaur.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../mooc-java-programming-i/part01-Part01_05.Message/Part01_05.Message.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../mooc-java-programming-i/part01-Part01_06.HiAdaLovelace/Part01_06.HiAdaLovelace.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../mooc-java-programming-i/part01-Part01_07.MessageThreeTimes/Part01_07.MessageThreeTimes.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../mooc-java-programming-i/part01-Part01_08.Greeting/Part01_08.Greeting.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../mooc-java-programming-i/part01-Part01_09.Conversation/Part01_09.Conversation.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../mooc-java-programming-i/part01-Part01_10.Story/Part01_10.Story.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../mooc-java-programming-i/part01-Part01_11.VariousVariables/Part01_11.VariousVariables.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../mooc-java-programming-i/part01-Part01_12.IntegerInput/Part01_12.IntegerInput.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../mooc-java-programming-i/part01-Part01_13.DoubleInput/Part01_13.DoubleInput.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../mooc-java-programming-i/part01-Part01_14.BooleanInput/Part01_14.BooleanInput.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../mooc-java-programming-i/part01-Part01_15.DifferentTypesOfInput/Part01_15.DifferentTypesOfInput.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../mooc-java-programming-i/part01-Part01_16.SecondsInADay/Part01_16.SecondsInADay.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../mooc-java-programming-i/part01-Part01_17.SumOfTwoNumbers/Part01_17.SumOfTwoNumbers.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../mooc-java-programming-i/part01-Part01_18.SumOfThreeNumbers/Part01_18.SumOfThreeNumbers.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../mooc-java-programming-i/part01-Part01_19.AdditionFormula/Part01_19.AdditionFormula.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../mooc-java-programming-i/part01-Part01_20.MultiplicationFormula/Part01_20.MultiplicationFormula.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../mooc-java-programming-i/part01-Part01_21.AverageOfTwoNumbers/Part01_21.AverageOfTwoNumbers.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../mooc-java-programming-i/part01-Part01_22.AverageOfThreeNumbers/Part01_22.AverageOfThreeNumbers.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../mooc-java-programming-i/part01-Part01_23.SimpleCalculator/Part01_23.SimpleCalculator.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../mooc-java-programming-i/part01-Part01_24.SpeedingTicket/Part01_24.SpeedingTicket.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../mooc-java-programming-i/part01-Part01_25.CheckYourIndentation/Part01_25.CheckYourIndentation.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../mooc-java-programming-i/part01-Part01_26.Orwell/Part01_26.Orwell.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../mooc-java-programming-i/part01-Part01_27.Ancient/Part01_27.Ancient.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../mooc-java-programming-i/part01-Part01_28.Positivity/Part01_28.Positivity.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../mooc-java-programming-i/part01-Part01_29.Adulthood/Part01_29.Adulthood.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../mooc-java-programming-i/part01-Part01_30.LargerThanOrEqualTo/Part01_30.LargerThanOrEqualTo.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../mooc-java-programming-i/part01-Part01_31.GradesAndPoints/Part01_31.gradesAndPoints.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../mooc-java-programming-i/part01-Part01_32.OddOrEven/Part01_32.OddOrEven.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../mooc-java-programming-i/part01-Part01_33.Password/Part01_33.Password.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../mooc-java-programming-i/part01-Part01_34.Same/Part01_34.Same.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../mooc-java-programming-i/part01-Part01_35.CheckingTheAge/Part01_35.CheckingTheAge.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../mooc-java-programming-i/part01-Part01_36.LeapYear/Part01_36.LeapYear.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../mooc-java-programming-i/part01-Part01_37.GiftTax/Part01_37.GiftTax.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../mooc-java-programming-i/part02-Part02_01.Squared/Part02_01.Squared.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../mooc-java-programming-i/part02-Part02_02.SquareRootOfSum/Part02_02.SquareRootOfSum.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../mooc-java-programming-i/part02-Part02_03.AbsoluteValue/Part02_03.AbsoluteValue.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../mooc-java-programming-i/part02-Part02_04.ComparingNumbers/Part02_04.ComparingNumbers.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../mooc-java-programming-i/part02-Part02_05.CarryOn/Part02_05.CarryOn.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../mooc-java-programming-i/part02-Part02_06.AreWeThereYet/Part02_06.AreWeThereYet.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../mooc-java-programming-i/part02-Part02_07.OnlyPositives/Part02_07.OnlyPositives.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../mooc-java-programming-i/part02-Part02_08.NumberOfNumbers/Part02_08.NumberOfNumbers.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../mooc-java-programming-i/part02-Part02_09.NumberOfNegativeNumbers/Part02_09.NumberOfNegativeNumbers.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../mooc-java-programming-i/part02-Part02_10.SumOfNumbers/Part02_10.SumOfNumbers.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../mooc-java-programming-i/part02-Part02_11.NumberAndSumOfNumbers/Part02_11.NumberAndSumOfNumbers.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../mooc-java-programming-i/part02-Part02_12.AverageOfNumbers/Part02_12.AverageOfNumbers.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../mooc-java-programming-i/part02-Part02_13.AverageOfPositiveNumbers/Part02_13.AverageOfPositiveNumbers.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../mooc-java-programming-i/part02-Part02_14.Counting/Part02_14.Counting.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../mooc-java-programming-i/part02-Part02_15.CountingToHundred/Part02_15.CountingToHundred.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../mooc-java-programming-i/part02-Part02_16.FromWhereToWhere/Part02_16.FromWhereToWhere.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../mooc-java-programming-i/part02-Part02_17.SumOfASequence/Part02_17.SumOfASequence.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../mooc-java-programming-i/part02-Part02_18.SumOfASequenceTheSequel/Part02_18.SumOfASequenceTheSequel.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../mooc-java-programming-i/part02-Part02_19.Factorial/Part02_19.Factorial.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../mooc-java-programming-i/part02-Part02_20.RepeatingBreakingAndRemembering/Part02_20.RepeatingBreakingAndRemembering.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../mooc-java-programming-i/part02-Part02_21.InAHoleInTheGround/Part02_21.InAHoleInTheGround.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../mooc-java-programming-i/part02-Part02_22.Reprint/Part02_22.Reprint.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../mooc-java-programming-i/part02-Part02_23.FromOneToParameter/Part02_23.FromOneToParameter.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../mooc-java-programming-i/part02-Part02_24.FromParameterToOne/Part02_24.FromParameterToOne.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../mooc-java-programming-i/part02-Part02_25.Division/Part02_25.Division.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../mooc-java-programming-i/part02-Part02_26.DivisibleByThree/Part02_26.DivisibleByThree.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../mooc-java-programming-i/part02-Part02_27.NumberUno/Part02_27.NumberUno.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../mooc-java-programming-i/part02-Part02_28.Word/Part02_28.Word.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../mooc-java-programming-i/part02-Part02_29.Summation/Part02_29.Summation.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../mooc-java-programming-i/part02-Part02_30.Smallest/Part02_30.Smallest.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../mooc-java-programming-i/part02-Part02_31.Greatest/Part02_31.Greatest.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../mooc-java-programming-i/part02-Part02_32.Averaging/Part02_32.Averaging.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../mooc-java-programming-i/part02-Part02_33.StarSign/Part02_33.StarSign.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../mooc-java-programming-i/part02-Part02_34.AdvancedAstrology/Part02_34.AdvancedAstrology.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../mooc-java-programming-i/part03-Part03_01.ThirdElement/Part03_01.ThirdElement.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../mooc-java-programming-i/part03-Part03_02.SecondPlusThird/Part03_02.SecondPlusThird.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../mooc-java-programming-i/part03-Part03_03.IndexOutOfBoundsException/Part03_03.IndexOutOfBoundsException.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../mooc-java-programming-i/part03-Part03_04.ListSize/Part03_04.ListSize.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../mooc-java-programming-i/part03-Part03_05.LastInList/Part03_05.LastInList.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../mooc-java-programming-i/part03-Part03_06.FirstAndLast/Part03_06.FirstAndLast.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../mooc-java-programming-i/part03-Part03_07.RememberTheseNumbers/Part03_07.RememberTheseNumbers.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../mooc-java-programming-i/part03-Part03_08.OnlyTheseNumbers/Part03_08.OnlyTheseNumbers.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../mooc-java-programming-i/part03-Part03_09.GreatestInList/Part03_09.GreatestInList.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../mooc-java-programming-i/part03-Part03_10.IndexOf/Part03_10.IndexOf.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../mooc-java-programming-i/part03-Part03_11.IndexOfSmallest/Part03_11.IndexOfSmallest.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../mooc-java-programming-i/part03-Part03_12.SumOfAList/Part03_12.SumOfAList.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../mooc-java-programming-i/part03-Part03_13.AverageOfAList/Part03_13.AverageOfAList.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../mooc-java-programming-i/part03-Part03_14.OnTheList/Part03_14.OnTheList.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../mooc-java-programming-i/part03-Part03_15.PrintInRange/Part03_15.PrintInRange.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../mooc-java-programming-i/part03-Part03_16.Sum/Part03_16.Sum.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../mooc-java-programming-i/part03-Part03_17.RemoveLast/Part03_17.RemoveLast.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../mooc-java-programming-i/part03-Part03_18.Swap/Part03_18.Swap.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../mooc-java-programming-i/part03-Part03_19.IndexWasNotFound/Part03_19.IndexWasNotFound.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../mooc-java-programming-i/part03-Part03_20.SumOfArray/Part03_20.SumOfArray.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../mooc-java-programming-i/part03-Part03_21.PrintNeatly/Part03_21.PrintNeatly.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../mooc-java-programming-i/part03-Part03_22.PrintInStars/Part03_22.PrintInStars.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../mooc-java-programming-i/part03-Part03_23.PrintThrice/Part03_23.PrintThrice.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../mooc-java-programming-i/part03-Part03_24.IsItTrue/Part03_24.IsItTrue.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../mooc-java-programming-i/part03-Part03_25.Login/Part03_25.Login.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../mooc-java-programming-i/part03-Part03_26.LineByLine/Part03_26.LineByLine.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../mooc-java-programming-i/part03-Part03_27.AVClub/Part03_27.AVClub.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../mooc-java-programming-i/part03-Part03_28.FirstWords/PArt03_28.FirstWords.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../mooc-java-programming-i/part03-Part03_29.LastWords/Part03_29.LastWords.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../mooc-java-programming-i/part03-Part03_30.AgeOfTheOldest/Part03_30.AgeOfTheOldest.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../mooc-java-programming-i/part03-Part03_31.NameOfTheOldest/Part03_31.NameOfTheOldest.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../mooc-java-programming-i/part03-Part03_32.PersonalDetails/Part03_32.PersonalDetails.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../mooc-java-programming-i/part04-Part04_01.YourFirstAccount/Part04_01.YourFirstAccount.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../mooc-java-programming-i/part04-Part04_02.YourFirstBankTransfer/Part04_02.YourFirstBankTransfer.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../mooc-java-programming-i/part04-Part04_03.DogAttributes/Part04_03.DogAttributes.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../mooc-java-programming-i/part04-Part04_04.Room/Part04_04.Room.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../mooc-java-programming-i/part04-Part04_05.Whistle/Part04_05.Whistle.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../mooc-java-programming-i/part04-Part04_06.Door/Part04_06.Door.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../mooc-java-programming-i/part04-Part04_07.Product/Part04_07.Product.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../mooc-java-programming-i/part04-Part04_08.DecreasingCounter/Part04_08.DecreasingCounter.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../mooc-java-programming-i/part04-Part04_09.Debt/Part04_09.Debt.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../mooc-java-programming-i/part04-Part04_10.Song/Part04_10.Song.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../mooc-java-programming-i/part04-Part04_11.Film/Part04_11.Film.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../mooc-java-programming-i/part04-Part04_12.Gauge/Part04_12.Gauge.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../mooc-java-programming-i/part04-Part04_13.Agent/Part04_13.Agent.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../mooc-java-programming-i/part04-Part04_14.Multiplier/Part04_14.Multiplier.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../mooc-java-programming-i/part04-Part04_15.NumberStatistics/Part04_15.Statistics.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../mooc-java-programming-i/part04-Part04_16.PaymentCard/Part04_16.PaymentCard.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../mooc-java-programming-i/part04-Part04_17.Items/Part04_17.Items.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../mooc-java-programming-i/part04-Part04_18.PersonalInformation/Part04_18.PersonalInformation.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../mooc-java-programming-i/part04-Part04_19.TelevisionPrograms/Part04_19.TelevisionPrograms.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../mooc-java-programming-i/part04-Part04_20.Books/Part04_20.Books.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../mooc-java-programming-i/part04-Part04_21.NumberOfStrings/Part04_21.NumberOfStrings.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../mooc-java-programming-i/part04-Part04_22.Cubes/Part04_22.Cubes.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../mooc-java-programming-i/part04-Part04_23.CreatingANewFile/Part04_23.CreatingANewFile.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../mooc-java-programming-i/part04-Part04_24.PrintingAFile/Part04_24.PrintingAFile.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../mooc-java-programming-i/part04-Part04_25.PrintingASpecifiedFile/Part04_25.PrintingASpecifiedFile.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../mooc-java-programming-i/part04-Part04_26.GuestListFromAFile/Part04_26.GuestListFromAFile.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../mooc-java-programming-i/part04-Part04_27.IsItInTheFile/Part04_27.IsItInTheFile.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../mooc-java-programming-i/part04-Part04_28.NumbersFromAFile/Part04_28.NumbersFromAFile.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../mooc-java-programming-i/part04-Part04_29.RecordsFromAFile/Part04_29.RecordsFromAFile.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../mooc-java-programming-i/part04-Part04_30.StoringRecords/Part04_30.StoringRecords.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../mooc-java-programming-i/part04-Part04_31.SportStatistics/Part04_31.SportStatistics.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../mooc-java-programming-i/part05-Part05_01.OneMinute/Part05_01.OneMinute.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../mooc-java-programming-i/part05-Part05_02.Book/Part05_02.Book.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../mooc-java-programming-i/part05-Part05_03.Cube/Part05_03.Cube.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../mooc-java-programming-i/part05-Part05_04.FitByte/Part05_04.Fitbyte.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../mooc-java-programming-i/part05-Part05_05.ConstructorOverload/Part05_05.ConstructorOverload.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../mooc-java-programming-i/part05-Part05_06.OverloadedCounter/Part05_06.OverloadedCounter.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../mooc-java-programming-i/part05-Part05_07.NullPointerException/Part05_07.NullPointerException.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../mooc-java-programming-i/part05-Part05_08.BiggestPetShop/Part05_08.BiggestPetShop.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../mooc-java-programming-i/part05-Part05_09.HealthStation/Part05_09.HealthStation.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../mooc-java-programming-i/part05-Part05_10.CardPayments/Part05_10.CardPayments.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../mooc-java-programming-i/part05-Part05_11.ComparingApartments/Part05_11.ComparingApartments.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../mooc-java-programming-i/part05-Part05_12.Song/Part05_12.Song.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../mooc-java-programming-i/part05-Part05_13.IdenticalTwins/Part05_13.IdenticalTwins.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../mooc-java-programming-i/part05-Part05_14.Books/Part05_14.Books.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../mooc-java-programming-i/part05-Part05_15.Archive/Part05_15.Archive.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../mooc-java-programming-i/part05-Part05_16.DatingApp/Part05_16.DatingApp.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../mooc-java-programming-i/part05-Part05_17.Money/Part05_17.Money.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../mooc-java-programming-i/part06-Part06_01.Menu/Part06_01.Menu.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../mooc-java-programming-i/part06-Part06_02.Stack/Part06_02.Stack.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../mooc-java-programming-i/part06-Part06_03.MessagingService/Osa06_03.Viestipalvelu.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../mooc-java-programming-i/part06-Part06_04.PrintingACollection/Osa06_04.JoukonTulostaminen.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../mooc-java-programming-i/part06-Part06_05.SantasWorkshop/Part06_05.SantasWorkshop.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../mooc-java-programming-i/part06-Part06_06.LongestInCollection/Part06_06.LongestInCollection.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../mooc-java-programming-i/part06-Part06_07.HeightOrder/Part06_07.HeightOrder.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../mooc-java-programming-i/part06-Part06_08.CargoHold/Part06_08.CargoHold.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../mooc-java-programming-i/part06-Part06_09.SimpleDictionary/Part06_09.SimpleDictionary.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../mooc-java-programming-i/part06-Part06_10.TodoList/Part06_10.TodoList.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../mooc-java-programming-i/part06-Part06_11.Averages/Part06_11.Averages.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../mooc-java-programming-i/part06-Part06_12.JokeManager/Part6_12.JokeManager.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../mooc-java-programming-i/part06-Part06_13.Exercises/Part06_13.Exercises.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../mooc-java-programming-i/part07-Part07_01.LiquidContainers/Part07_01.LiquidContainers.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../mooc-java-programming-i/part07-Part07_02.LiquidContainers2/Part07_02.LiquidContainers2.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../mooc-java-programming-i/part07-Part07_03.Sorting/Part07_03.Sorting.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../mooc-java-programming-i/part07-Part07_04.ReadymadeSortingAlgorithms/Part07_04.ReadymadeSortingAlgorithms.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../mooc-java-programming-i/part07-Part07_05.Searching/Part07_05.Searching.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../mooc-java-programming-i/part07-Part07_06.GradeStatistics/Part07_06.GradeStatistics.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../mooc-java-programming-i/part07-Part07_07.RecipeSearch/Part07_07.RecipeSearch.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../mooc-java-programming-i/part07-Part07_08.BigYear/Part07_08.BigYear.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../part08-Part08_01.Cubes/Part08_01.Cubes.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../part08-Part08_02.AverageOfPositiveNumbers/Part08_02.AverageOfPositiveNumbers.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/runConfigurations/Part08_03_LiquidContainers.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../Eclipse Java/.metadata/.lock" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../Eclipse Java/.metadata/.log" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../Eclipse Java/.metadata/.mylyn/.taskListIndex/segments_1" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../Eclipse Java/.metadata/.mylyn/.taskListIndex/write.lock" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../Eclipse Java/.metadata/.mylyn/.tasks.xml.zip" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../Eclipse Java/.metadata/.mylyn/repositories.xml.zip" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../Eclipse Java/.metadata/.mylyn/tasks.xml.zip" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../Eclipse Java/.metadata/.plugins/org.eclipse.core.resources/.history/11/0077ecd38583001a13a692e0bc851bdc" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../Eclipse Java/.metadata/.plugins/org.eclipse.core.resources/.history/11/10d8c3dfc184001a13a692e0bc851bdc" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../Eclipse Java/.metadata/.plugins/org.eclipse.core.resources/.history/11/70df4cc6c284001a13a692e0bc851bdc" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../Eclipse Java/.metadata/.plugins/org.eclipse.core.resources/.history/11/d0426bff8583001a13a692e0bc851bdc" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../Eclipse Java/.metadata/.plugins/org.eclipse.core.resources/.history/23/70e25a848183001a13a692e0bc851bdc" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../Eclipse Java/.metadata/.plugins/org.eclipse.core.resources/.history/24/e05feab2f081001a1581b0f31e97e53e" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../Eclipse Java/.metadata/.plugins/org.eclipse.core.resources/.history/2c/30df90e6c184001a13a692e0bc851bdc" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../Eclipse Java/.metadata/.plugins/org.eclipse.core.resources/.history/2d/1004661fc384001a13a692e0bc851bdc" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../Eclipse Java/.metadata/.plugins/org.eclipse.core.resources/.history/30/506ef7da8183001a13a692e0bc851bdc" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../Eclipse Java/.metadata/.plugins/org.eclipse.core.resources/.history/32/0082ddaf8583001a13a692e0bc851bdc" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../Eclipse Java/.metadata/.plugins/org.eclipse.core.resources/.history/4a/3025fd25f181001a1581b0f31e97e53e" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../Eclipse Java/.metadata/.plugins/org.eclipse.core.resources/.history/4f/30eac25e8683001a13a692e0bc851bdc" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../Eclipse Java/.metadata/.plugins/org.eclipse.core.resources/.history/52/709b93c9c184001a13a692e0bc851bdc" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../Eclipse Java/.metadata/.plugins/org.eclipse.core.resources/.history/62/f0d91731c284001a13a692e0bc851bdc" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../Eclipse Java/.metadata/.plugins/org.eclipse.core.resources/.history/6c/00834f92f081001a1581b0f31e97e53e" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../Eclipse Java/.metadata/.plugins/org.eclipse.core.resources/.history/70/c0481f37f181001a1581b0f31e97e53e" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../Eclipse Java/.metadata/.plugins/org.eclipse.core.resources/.history/71/807026488183001a13a692e0bc851bdc" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../Eclipse Java/.metadata/.plugins/org.eclipse.core.resources/.history/72/20dff56ff081001a1581b0f31e97e53e" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../Eclipse Java/.metadata/.plugins/org.eclipse.core.resources/.history/74/60b0fb85f081001a1581b0f31e97e53e" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../Eclipse Java/.metadata/.plugins/org.eclipse.core.resources/.history/79/9013f53e8183001a13a692e0bc851bdc" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../Eclipse Java/.metadata/.plugins/org.eclipse.core.resources/.history/79/f04376648683001a13a692e0bc851bdc" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../Eclipse Java/.metadata/.plugins/org.eclipse.core.resources/.history/7c/6009fe3d8183001a13a692e0bc851bdc" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../Eclipse Java/.metadata/.plugins/org.eclipse.core.resources/.history/82/108be2af8583001a13a692e0bc851bdc" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../Eclipse Java/.metadata/.plugins/org.eclipse.core.resources/.history/84/c020cb01c384001a13a692e0bc851bdc" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../Eclipse Java/.metadata/.plugins/org.eclipse.core.resources/.history/89/f0fb10d0c184001a13a692e0bc851bdc" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../Eclipse Java/.metadata/.plugins/org.eclipse.core.resources/.history/93/10bad156f481001a1581b0f31e97e53e" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../Eclipse Java/.metadata/.plugins/org.eclipse.core.resources/.history/9b/20e6823af181001a1581b0f31e97e53e" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../Eclipse Java/.metadata/.plugins/org.eclipse.core.resources/.history/9f/d0e1dd29f181001a1581b0f31e97e53e" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../Eclipse Java/.metadata/.plugins/org.eclipse.core.resources/.history/aa/304e23a5f081001a1581b0f31e97e53e" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../Eclipse Java/.metadata/.plugins/org.eclipse.core.resources/.history/ab/00bc1e0ef481001a1581b0f31e97e53e" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../Eclipse Java/.metadata/.plugins/org.eclipse.core.resources/.history/b0/f02871adf081001a1581b0f31e97e53e" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../Eclipse Java/.metadata/.plugins/org.eclipse.core.resources/.history/b1/8065fea8f081001a1581b0f31e97e53e" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../Eclipse Java/.metadata/.plugins/org.eclipse.core.resources/.history/b3/60283d88c384001a13a692e0bc851bdc" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../Eclipse Java/.metadata/.plugins/org.eclipse.core.resources/.history/b7/b07ee026c284001a13a692e0bc851bdc" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../Eclipse Java/.metadata/.plugins/org.eclipse.core.resources/.history/ba/d0ec25eac184001a13a692e0bc851bdc" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../Eclipse Java/.metadata/.plugins/org.eclipse.core.resources/.history/bb/303b89c9c184001a13a692e0bc851bdc" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../Eclipse Java/.metadata/.plugins/org.eclipse.core.resources/.history/c4/406a98e3c284001a13a692e0bc851bdc" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../Eclipse Java/.metadata/.plugins/org.eclipse.core.resources/.history/cc/00caf3d38583001a13a692e0bc851bdc" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../Eclipse Java/.metadata/.plugins/org.eclipse.core.resources/.history/cf/1085bcdfc184001a13a692e0bc851bdc" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../Eclipse Java/.metadata/.plugins/org.eclipse.core.resources/.history/cf/4065f2da8183001a13a692e0bc851bdc" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../Eclipse Java/.metadata/.plugins/org.eclipse.core.resources/.history/d0/60b58c6ef481001a1581b0f31e97e53e" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../Eclipse Java/.metadata/.plugins/org.eclipse.core.resources/.history/d6/40caabc7f081001a1581b0f31e97e53e" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../Eclipse Java/.metadata/.plugins/org.eclipse.core.resources/.history/e/10b02e3ef181001a1581b0f31e97e53e" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../Eclipse Java/.metadata/.plugins/org.eclipse.core.resources/.history/e3/d0c7745df081001a1581b0f31e97e53e" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../Eclipse Java/.metadata/.plugins/org.eclipse.core.resources/.history/e8/1071b97f8583001a13a692e0bc851bdc" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../Eclipse Java/.metadata/.plugins/org.eclipse.core.resources/.history/ea/40f23d25c284001a13a692e0bc851bdc" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../Eclipse Java/.metadata/.plugins/org.eclipse.core.resources/.history/ee/40050a00c284001a13a692e0bc851bdc" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../Eclipse Java/.metadata/.plugins/org.eclipse.core.resources/.projects/Tutorial21/.indexes/af/history.index" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../Eclipse Java/.metadata/.plugins/org.eclipse.core.resources/.projects/Tutorial21/.indexes/e4/c3/history.index" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../Eclipse Java/.metadata/.plugins/org.eclipse.core.resources/.projects/Tutorial21/.indexes/e4/history.index" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../Eclipse Java/.metadata/.plugins/org.eclipse.core.resources/.projects/Tutorial21/.markers" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../Eclipse Java/.metadata/.plugins/org.eclipse.core.resources/.projects/Tutorial21/1.tree" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../Eclipse Java/.metadata/.plugins/org.eclipse.core.resources/.projects/Tutorial21/org.eclipse.jdt.core/state.dat" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../Eclipse Java/.metadata/.plugins/org.eclipse.core.resources/.projects/Tutorial22/.indexes/af/history.index" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../Eclipse Java/.metadata/.plugins/org.eclipse.core.resources/.projects/Tutorial22/.indexes/e4/c2/history.index" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../Eclipse Java/.metadata/.plugins/org.eclipse.core.resources/.projects/Tutorial22/.indexes/e4/fe/98/history.index" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../Eclipse Java/.metadata/.plugins/org.eclipse.core.resources/.projects/Tutorial22/.indexes/e4/fe/history.index" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../Eclipse Java/.metadata/.plugins/org.eclipse.core.resources/.projects/Tutorial22/.indexes/e4/history.index" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../Eclipse Java/.metadata/.plugins/org.eclipse.core.resources/.projects/Tutorial22/.markers" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../Eclipse Java/.metadata/.plugins/org.eclipse.core.resources/.projects/Tutorial22/org.eclipse.jdt.core/state.dat" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../Eclipse Java/.metadata/.plugins/org.eclipse.core.resources/.root/.indexes/history.version" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../Eclipse Java/.metadata/.plugins/org.eclipse.core.resources/.root/.indexes/properties.index" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../Eclipse Java/.metadata/.plugins/org.eclipse.core.resources/.root/.indexes/properties.version" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../Eclipse Java/.metadata/.plugins/org.eclipse.core.resources/.root/3.tree" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../Eclipse Java/.metadata/.plugins/org.eclipse.core.resources/.safetable/org.eclipse.core.resources" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../Eclipse Java/.metadata/.plugins/org.eclipse.core.runtime/.settings/org.eclipse.core.resources.prefs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../Eclipse Java/.metadata/.plugins/org.eclipse.core.runtime/.settings/org.eclipse.debug.ui.prefs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../Eclipse Java/.metadata/.plugins/org.eclipse.core.runtime/.settings/org.eclipse.e4.ui.css.swt.theme.prefs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../Eclipse Java/.metadata/.plugins/org.eclipse.core.runtime/.settings/org.eclipse.e4.ui.workbench.renderers.swt.prefs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../Eclipse Java/.metadata/.plugins/org.eclipse.core.runtime/.settings/org.eclipse.jdt.core.prefs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../Eclipse Java/.metadata/.plugins/org.eclipse.core.runtime/.settings/org.eclipse.jdt.junit.prefs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../Eclipse Java/.metadata/.plugins/org.eclipse.core.runtime/.settings/org.eclipse.jdt.launching.prefs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../Eclipse Java/.metadata/.plugins/org.eclipse.core.runtime/.settings/org.eclipse.jdt.ui.prefs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../Eclipse Java/.metadata/.plugins/org.eclipse.core.runtime/.settings/org.eclipse.jsch.core.prefs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../Eclipse Java/.metadata/.plugins/org.eclipse.core.runtime/.settings/org.eclipse.m2e.discovery.prefs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../Eclipse Java/.metadata/.plugins/org.eclipse.core.runtime/.settings/org.eclipse.mylyn.context.core.prefs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../Eclipse Java/.metadata/.plugins/org.eclipse.core.runtime/.settings/org.eclipse.mylyn.java.ui.prefs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../Eclipse Java/.metadata/.plugins/org.eclipse.core.runtime/.settings/org.eclipse.mylyn.monitor.ui.prefs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../Eclipse Java/.metadata/.plugins/org.eclipse.core.runtime/.settings/org.eclipse.mylyn.tasks.ui.prefs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../Eclipse Java/.metadata/.plugins/org.eclipse.core.runtime/.settings/org.eclipse.ui.editors.prefs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../Eclipse Java/.metadata/.plugins/org.eclipse.core.runtime/.settings/org.eclipse.ui.ide.prefs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../Eclipse Java/.metadata/.plugins/org.eclipse.core.runtime/.settings/org.eclipse.ui.prefs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../Eclipse Java/.metadata/.plugins/org.eclipse.core.runtime/.settings/org.eclipse.ui.workbench.prefs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../Eclipse Java/.metadata/.plugins/org.eclipse.debug.core/.launches/Tutorial10.launch" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../Eclipse Java/.metadata/.plugins/org.eclipse.debug.core/.launches/Tutorial11.launch" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../Eclipse Java/.metadata/.plugins/org.eclipse.debug.core/.launches/Tutorial12.launch" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../Eclipse Java/.metadata/.plugins/org.eclipse.debug.core/.launches/Tutorial13.launch" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../Eclipse Java/.metadata/.plugins/org.eclipse.debug.core/.launches/Tutorial14.launch" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../Eclipse Java/.metadata/.plugins/org.eclipse.debug.core/.launches/Tutorial15.launch" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../Eclipse Java/.metadata/.plugins/org.eclipse.debug.core/.launches/Tutorial16.launch" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../Eclipse Java/.metadata/.plugins/org.eclipse.debug.core/.launches/Tutorial17.launch" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../Eclipse Java/.metadata/.plugins/org.eclipse.debug.core/.launches/Tutorial18.launch" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../Eclipse Java/.metadata/.plugins/org.eclipse.debug.core/.launches/Tutorial19.launch" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../Eclipse Java/.metadata/.plugins/org.eclipse.debug.core/.launches/Tutorial20.launch" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../Eclipse Java/.metadata/.plugins/org.eclipse.debug.core/.launches/Tutorial21.launch" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../Eclipse Java/.metadata/.plugins/org.eclipse.debug.core/.launches/Tutorial22.launch" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../Eclipse Java/.metadata/.plugins/org.eclipse.debug.core/.launches/Tutorial4.launch" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../Eclipse Java/.metadata/.plugins/org.eclipse.debug.core/.launches/Tutorial5.launch" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../Eclipse Java/.metadata/.plugins/org.eclipse.debug.core/.launches/Tutorial6.launch" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../Eclipse Java/.metadata/.plugins/org.eclipse.debug.core/.launches/Tutorial7.launch" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../Eclipse Java/.metadata/.plugins/org.eclipse.debug.core/.launches/Tutorial8.launch" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../Eclipse Java/.metadata/.plugins/org.eclipse.debug.core/.launches/Tutorial9 (1).launch" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../Eclipse Java/.metadata/.plugins/org.eclipse.debug.core/.launches/Tutorial9.launch" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../Eclipse Java/.metadata/.plugins/org.eclipse.debug.core/.launches/application.launch" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../Eclipse Java/.metadata/.plugins/org.eclipse.debug.core/.launches/tutorial1.launch" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../Eclipse Java/.metadata/.plugins/org.eclipse.debug.core/.launches/tutorial3.launch" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../Eclipse Java/.metadata/.plugins/org.eclipse.debug.ui/dialog_settings.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../Eclipse Java/.metadata/.plugins/org.eclipse.debug.ui/launchConfigurationHistory.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../Eclipse Java/.metadata/.plugins/org.eclipse.e4.workbench/workbench.xmi" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../Eclipse Java/.metadata/.plugins/org.eclipse.jdt.core/1932846052.index" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../Eclipse Java/.metadata/.plugins/org.eclipse.jdt.core/852993850.index" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../Eclipse Java/.metadata/.plugins/org.eclipse.jdt.core/assumedExternalFilesCache" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../Eclipse Java/.metadata/.plugins/org.eclipse.jdt.core/externalFilesCache" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../Eclipse Java/.metadata/.plugins/org.eclipse.jdt.core/externalLibsTimeStamps" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../Eclipse Java/.metadata/.plugins/org.eclipse.jdt.core/javaLikeNames.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../Eclipse Java/.metadata/.plugins/org.eclipse.jdt.core/nonChainingJarsCache" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../Eclipse Java/.metadata/.plugins/org.eclipse.jdt.core/savedIndexNames.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../Eclipse Java/.metadata/.plugins/org.eclipse.jdt.core/variablesAndContainers.dat" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../Eclipse Java/.metadata/.plugins/org.eclipse.jdt.launching/.install.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../Eclipse Java/.metadata/.plugins/org.eclipse.jdt.launching/libraryInfos.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../Eclipse Java/.metadata/.plugins/org.eclipse.jdt.ui/OpenTypeHistory.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../Eclipse Java/.metadata/.plugins/org.eclipse.jdt.ui/QualifiedTypeNameHistory.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../Eclipse Java/.metadata/.plugins/org.eclipse.jdt.ui/dialog_settings.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../Eclipse Java/.metadata/.plugins/org.eclipse.ltk.core.refactoring/.refactorings/.workspace/2020/4/16/refactorings.history" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../Eclipse Java/.metadata/.plugins/org.eclipse.ltk.core.refactoring/.refactorings/.workspace/2020/4/16/refactorings.index" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../Eclipse Java/.metadata/.plugins/org.eclipse.ltk.core.refactoring/.refactorings/.workspace/2020/4/17/refactorings.history" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../Eclipse Java/.metadata/.plugins/org.eclipse.ltk.core.refactoring/.refactorings/.workspace/2020/4/17/refactorings.index" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../Eclipse Java/.metadata/.plugins/org.eclipse.ltk.core.refactoring/.refactorings/HelloWorld/2020/4/16/refactorings.history" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../Eclipse Java/.metadata/.plugins/org.eclipse.ltk.core.refactoring/.refactorings/HelloWorld/2020/4/16/refactorings.index" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../Eclipse Java/.metadata/.plugins/org.eclipse.ltk.core.refactoring/.refactorings/Tutorial1/2020/4/16/refactorings.history" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../Eclipse Java/.metadata/.plugins/org.eclipse.ltk.core.refactoring/.refactorings/Tutorial1/2020/4/16/refactorings.index" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../Eclipse Java/.metadata/.plugins/org.eclipse.ltk.ui.refactoring/dialog_settings.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../Eclipse Java/.metadata/.plugins/org.eclipse.m2e.logback.configuration/0.log" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../Eclipse Java/.metadata/.plugins/org.eclipse.m2e.logback.configuration/logback.1.15.0.20191217-1149.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../Eclipse Java/.metadata/.plugins/org.eclipse.oomph.setup/workspace.setup" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../Eclipse Java/.metadata/.plugins/org.eclipse.tips.ide/dialog_settings.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../Eclipse Java/.metadata/.plugins/org.eclipse.ui.ide/dialog_settings.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../Eclipse Java/.metadata/.plugins/org.eclipse.ui.intro/dialog_settings.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../Eclipse Java/.metadata/.plugins/org.eclipse.ui.intro/introstate" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../Eclipse Java/.metadata/.plugins/org.eclipse.ui.workbench/dialog_settings.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../Eclipse Java/.metadata/.plugins/org.eclipse.ui.workbench/workingsets.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../Eclipse Java/.metadata/.plugins/org.eclipse.wst.sse.core/task-tags.properties" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../Eclipse Java/.metadata/version.ini" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../Eclipse Java/TUTORIAL 3/.classpath" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../Eclipse Java/TUTORIAL 3/.project" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../Eclipse Java/TUTORIAL 3/.settings/org.eclipse.jdt.core.prefs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../Eclipse Java/TUTORIAL 3/bin/tutorial3/tutorial3.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../Eclipse Java/TUTORIAL 3/src/tutorial3/tutorial3.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../Eclipse Java/Tutorial 1.gitignore/.classpath" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../Eclipse Java/Tutorial 1.gitignore/.project" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../Eclipse Java/Tutorial 1.gitignore/.settings/org.eclipse.core.resources.prefs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../Eclipse Java/Tutorial 1.gitignore/.settings/org.eclipse.jdt.core.prefs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../Eclipse Java/Tutorial 1.gitignore/bin/module-info.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../Eclipse Java/Tutorial 1.gitignore/bin/tutorial1/tutorial1.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../Eclipse Java/Tutorial 1.gitignore/src/module-info.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../Eclipse Java/Tutorial 1.gitignore/src/tutorial1/tutorial1.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../Eclipse Java/Tutorial10/.classpath" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../Eclipse Java/Tutorial10/.project" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../Eclipse Java/Tutorial10/.settings/org.eclipse.jdt.core.prefs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../Eclipse Java/Tutorial10/bin/Tutorial10/Tutorial10.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../Eclipse Java/Tutorial10/bin/module-info.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../Eclipse Java/Tutorial10/src/Tutorial10/Tutorial10.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../Eclipse Java/Tutorial10/src/module-info.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../Eclipse Java/Tutorial11/.classpath" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../Eclipse Java/Tutorial11/.project" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../Eclipse Java/Tutorial11/.settings/org.eclipse.jdt.core.prefs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../Eclipse Java/Tutorial11/bin/Tutorial11/Tutorial11.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../Eclipse Java/Tutorial11/bin/module-info.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../Eclipse Java/Tutorial11/src/Tutorial11/Tutorial11.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../Eclipse Java/Tutorial11/src/module-info.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../Eclipse Java/Tutorial12/.classpath" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../Eclipse Java/Tutorial12/.project" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../Eclipse Java/Tutorial12/.settings/org.eclipse.jdt.core.prefs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../Eclipse Java/Tutorial12/bin/Tutorial12/Tutorial12.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../Eclipse Java/Tutorial12/bin/module-info.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../Eclipse Java/Tutorial12/src/Tutorial12/Tutorial12.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../Eclipse Java/Tutorial12/src/module-info.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../Eclipse Java/Tutorial13/.classpath" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../Eclipse Java/Tutorial13/.project" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../Eclipse Java/Tutorial13/.settings/org.eclipse.jdt.core.prefs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../Eclipse Java/Tutorial13/bin/Tutorial13/Basil.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../Eclipse Java/Tutorial13/bin/Tutorial13/Luther$Tutorial13.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../Eclipse Java/Tutorial13/bin/Tutorial13/Luther.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../Eclipse Java/Tutorial13/bin/Tutorial13/Person.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../Eclipse Java/Tutorial13/bin/module-info.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../Eclipse Java/Tutorial13/src/Tutorial13/Tutorial13.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../Eclipse Java/Tutorial13/src/module-info.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../Eclipse Java/Tutorial14/.classpath" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../Eclipse Java/Tutorial14/.project" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../Eclipse Java/Tutorial14/.settings/org.eclipse.jdt.core.prefs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../Eclipse Java/Tutorial14/bin/Tutorial14/Person.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../Eclipse Java/Tutorial14/bin/Tutorial14/Tutorial14.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../Eclipse Java/Tutorial14/bin/module-info.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../Eclipse Java/Tutorial14/src/Tutorial14/Tutorial14.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../Eclipse Java/Tutorial14/src/module-info.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../Eclipse Java/Tutorial15/.classpath" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../Eclipse Java/Tutorial15/.project" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../Eclipse Java/Tutorial15/.settings/org.eclipse.jdt.core.prefs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../Eclipse Java/Tutorial15/bin/Tutorial15/Robot.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../Eclipse Java/Tutorial15/bin/Tutorial15/Tutorial15.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../Eclipse Java/Tutorial15/bin/module-info.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../Eclipse Java/Tutorial15/src/Tutorial15/Tutorial15.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../Eclipse Java/Tutorial15/src/module-info.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../Eclipse Java/Tutorial16/.classpath" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../Eclipse Java/Tutorial16/.project" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../Eclipse Java/Tutorial16/.settings/org.eclipse.jdt.core.prefs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../Eclipse Java/Tutorial16/bin/Tutorial16/Frog.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../Eclipse Java/Tutorial16/bin/Tutorial16/Tutorial16.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../Eclipse Java/Tutorial16/bin/module-info.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../Eclipse Java/Tutorial16/src/Tutorial16/Tutorial16.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../Eclipse Java/Tutorial16/src/module-info.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../Eclipse Java/Tutorial17/.classpath" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../Eclipse Java/Tutorial17/.project" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../Eclipse Java/Tutorial17/.settings/org.eclipse.jdt.core.prefs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../Eclipse Java/Tutorial17/bin/Tutorial17/Machine.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../Eclipse Java/Tutorial17/bin/Tutorial17/Tutorial17.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../Eclipse Java/Tutorial17/bin/module-info.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../Eclipse Java/Tutorial17/src/Tutorial17/Tutorial17.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../Eclipse Java/Tutorial17/src/module-info.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../Eclipse Java/Tutorial18/.classpath" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../Eclipse Java/Tutorial18/.project" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../Eclipse Java/Tutorial18/.settings/org.eclipse.jdt.core.prefs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../Eclipse Java/Tutorial18/bin/Tutorial18/Thing.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../Eclipse Java/Tutorial18/bin/Tutorial18/Tutorial18.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../Eclipse Java/Tutorial18/bin/module-info.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../Eclipse Java/Tutorial18/src/Tutorial18/Tutorial18.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../Eclipse Java/Tutorial18/src/module-info.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../Eclipse Java/Tutorial19/.classpath" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../Eclipse Java/Tutorial19/.project" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../Eclipse Java/Tutorial19/.settings/org.eclipse.jdt.core.prefs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../Eclipse Java/Tutorial19/bin/Tutorial19/Tutorial19.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../Eclipse Java/Tutorial19/bin/module-info.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../Eclipse Java/Tutorial19/src/Tutorial19/Tutorial19.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../Eclipse Java/Tutorial19/src/module-info.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../Eclipse Java/Tutorial20/.classpath" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../Eclipse Java/Tutorial20/.project" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../Eclipse Java/Tutorial20/.settings/org.eclipse.jdt.core.prefs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../Eclipse Java/Tutorial20/bin/Tutorial20/Frog.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../Eclipse Java/Tutorial20/bin/Tutorial20/Tutorial20.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../Eclipse Java/Tutorial20/bin/module-info.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../Eclipse Java/Tutorial20/src/Tutorial20/Tutorial20.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../Eclipse Java/Tutorial20/src/module-info.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../Eclipse Java/Tutorial21/.classpath" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../Eclipse Java/Tutorial21/.project" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../Eclipse Java/Tutorial21/.settings/org.eclipse.jdt.core.prefs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../Eclipse Java/Tutorial21/bin/Tutorial21/Car.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../Eclipse Java/Tutorial21/bin/Tutorial21/Machine.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../Eclipse Java/Tutorial21/bin/Tutorial21/Tutorial21.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../Eclipse Java/Tutorial21/bin/module-info.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../Eclipse Java/Tutorial21/src/Tutorial21/Car.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../Eclipse Java/Tutorial21/src/Tutorial21/Machine.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../Eclipse Java/Tutorial21/src/Tutorial21/Tutorial21.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../Eclipse Java/Tutorial21/src/module-info.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../Eclipse Java/Tutorial22/.classpath" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../Eclipse Java/Tutorial22/.project" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../Eclipse Java/Tutorial22/.settings/org.eclipse.jdt.core.prefs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../Eclipse Java/Tutorial22/bin/Tutorial22/Tutorial22.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../Eclipse Java/Tutorial22/bin/module-info.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../Eclipse Java/Tutorial22/bin/ocean/Fish.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../Eclipse Java/Tutorial22/bin/ocean/Seaweed.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../Eclipse Java/Tutorial22/bin/ocean/plants/Algae.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../Eclipse Java/Tutorial22/src/Tutorial22/Tutorial22.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../Eclipse Java/Tutorial22/src/module-info.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../Eclipse Java/Tutorial22/src/ocean/Fish.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../Eclipse Java/Tutorial22/src/ocean/Seaweed.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../Eclipse Java/Tutorial22/src/ocean/plants/Algae.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../Eclipse Java/Tutorial4/.classpath" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../Eclipse Java/Tutorial4/.project" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../Eclipse Java/Tutorial4/.settings/org.eclipse.jdt.core.prefs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../Eclipse Java/Tutorial4/bin/Tutorial4/Tutorial4.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../Eclipse Java/Tutorial4/bin/module-info.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../Eclipse Java/Tutorial4/src/Tutorial4/Tutorial4.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../Eclipse Java/Tutorial4/src/module-info.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../Eclipse Java/Tutorial5/.classpath" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../Eclipse Java/Tutorial5/.project" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../Eclipse Java/Tutorial5/.settings/org.eclipse.jdt.core.prefs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../Eclipse Java/Tutorial5/bin/Tutorial5/Tutorial5.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../Eclipse Java/Tutorial5/bin/module-info.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../Eclipse Java/Tutorial5/src/Tutorial5/Tutorial5.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../Eclipse Java/Tutorial5/src/module-info.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../Eclipse Java/Tutorial6/.classpath" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../Eclipse Java/Tutorial6/.project" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../Eclipse Java/Tutorial6/.settings/org.eclipse.jdt.core.prefs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../Eclipse Java/Tutorial6/bin/Tutorial6/Tutorial6.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../Eclipse Java/Tutorial6/bin/module-info.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../Eclipse Java/Tutorial6/src/Tutorial6/Tutorial6.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../Eclipse Java/Tutorial6/src/module-info.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../Eclipse Java/Tutorial7/.classpath" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../Eclipse Java/Tutorial7/.project" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../Eclipse Java/Tutorial7/.settings/org.eclipse.jdt.core.prefs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../Eclipse Java/Tutorial7/bin/Tutorial7/Tutorial7.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../Eclipse Java/Tutorial7/bin/module-info.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../Eclipse Java/Tutorial7/src/Tutorial7/Tutorial7.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../Eclipse Java/Tutorial7/src/module-info.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../Eclipse Java/Tutorial8/.classpath" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../Eclipse Java/Tutorial8/.project" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../Eclipse Java/Tutorial8/.settings/org.eclipse.jdt.core.prefs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../Eclipse Java/Tutorial8/bin/Tutorial8/Tutorial8.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../Eclipse Java/Tutorial8/bin/module-info.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../Eclipse Java/Tutorial8/src/Tutorial8/Tutorial8.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../Eclipse Java/Tutorial8/src/module-info.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../Eclipse Java/Tutorial9/.classpath" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../Eclipse Java/Tutorial9/.project" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../Eclipse Java/Tutorial9/.settings/org.eclipse.jdt.core.prefs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../Eclipse Java/Tutorial9/bin/Tutorial9/Tutorial9.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../Eclipse Java/Tutorial9/bin/module-info.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../Eclipse Java/Tutorial9/src/Tutorial9/Tutorial9.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../Eclipse Java/Tutorial9/src/module-info.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../mooc-java-programming-i/part06-Part06_13.Exercises/src/main/java/Exercise.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../mooc-java-programming-i/part06-Part06_13.Exercises/src/main/java/Exercise.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../mooc-java-programming-i/part07-Part07_02.LiquidContainers2/src/main/java/Container.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../mooc-java-programming-i/part07-Part07_02.LiquidContainers2/src/main/java/Container.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/LiquidContainers.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/LiquidContainers.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../Sound recordings/Recording (2).m4a" beforeDir="false" afterPath="$PROJECT_DIR$/../../../../Sound recordings/Recording (2).m4a" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../Sound recordings/Recording (3).m4a" beforeDir="false" afterPath="$PROJECT_DIR$/../../../../Sound recordings/Recording (3).m4a" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../Sound recordings/Recording (4).m4a" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../Sound recordings/Recording.m4a" beforeDir="false" afterPath="$PROJECT_DIR$/../../../../Sound recordings/Recording.m4a" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../Zalo Received Files/REC20200318211235.mp3" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../Zalo Received Files/Test 1_Session 1.1.mp3" beforeDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
   <component name="CodeInsightWorkspaceSettings">
     <option name="optimizeImportsOnTheFly" value="true" />
   </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/../../../.." />
+  </component>
+  <component name="ProjectId" id="1jUj44RsBXuxiqempw53R2GnmNy" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
   <component name="PropertiesComponent">
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
     <property name="project.structure.last.edited" value="SDKs" />
     <property name="project.structure.proportion" value="0.15" />
     <property name="project.structure.side.proportion" value="0.2" />
     <property name="settings.editor.selected.configurable" value="fileTemplates" />
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="a4ee3719-1d7f-4176-a89b-c24dfafae99e" name="Default Changelist" comment="" />
+      <created>1603865369152</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1603865369152</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="446" y="41" key="#com.intellij.ide.util.MemberChooser" timestamp="1603908441160">
+      <screen x="0" y="0" width="1280" height="689" />
+    </state>
+    <state x="446" y="41" key="#com.intellij.ide.util.MemberChooser/0.0.1280.689@0.0.1280.689" timestamp="1603908441160" />
+    <state x="371" y="135" key="#com.intellij.ide.util.TreeClassChooserDialog" timestamp="1603908880928">
+      <screen x="0" y="0" width="1280" height="689" />
+    </state>
+    <state x="371" y="135" key="#com.intellij.ide.util.TreeClassChooserDialog/0.0.1280.689@0.0.1280.689" timestamp="1603908880928" />
+    <state width="1237" height="183" key="GridCell.Tab.0.bottom" timestamp="1603915519123">
+      <screen x="0" y="0" width="1280" height="689" />
+    </state>
+    <state width="1237" height="183" key="GridCell.Tab.0.bottom/0.0.1280.689@0.0.1280.689" timestamp="1603915519123" />
+    <state width="1237" height="183" key="GridCell.Tab.0.center" timestamp="1603915519123">
+      <screen x="0" y="0" width="1280" height="689" />
+    </state>
+    <state width="1237" height="183" key="GridCell.Tab.0.center/0.0.1280.689@0.0.1280.689" timestamp="1603915519123" />
+    <state width="1237" height="183" key="GridCell.Tab.0.left" timestamp="1603915519123">
+      <screen x="0" y="0" width="1280" height="689" />
+    </state>
+    <state width="1237" height="183" key="GridCell.Tab.0.left/0.0.1280.689@0.0.1280.689" timestamp="1603915519123" />
+    <state width="1237" height="183" key="GridCell.Tab.0.right" timestamp="1603915519123">
+      <screen x="0" y="0" width="1280" height="689" />
+    </state>
+    <state width="1237" height="183" key="GridCell.Tab.0.right/0.0.1280.689@0.0.1280.689" timestamp="1603915519123" />
+    <state x="303" y="10" width="672" height="678" key="search.everywhere.popup" timestamp="1603909810993">
+      <screen x="0" y="0" width="1280" height="689" />
+    </state>
+    <state x="303" y="10" width="672" height="678" key="search.everywhere.popup/0.0.1280.689@0.0.1280.689" timestamp="1603909810993" />
   </component>
 </project>
