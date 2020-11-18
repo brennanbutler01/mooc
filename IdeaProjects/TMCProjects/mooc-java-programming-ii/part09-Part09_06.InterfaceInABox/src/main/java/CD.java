@@ -12,7 +12,7 @@ public class CD implements Packable {
     }
     @Override
     public double weight() {
-        return 0.0;
+        return this.weight;
     }
     @Override
     public String toString() {
