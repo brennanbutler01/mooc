@@ -2,38 +2,32 @@ import java.util.ArrayList;
 
 public class Box implements Packable{
     private double capacity;
-    private ArrayList<Double> box;
+    private ArrayList<Packable> items;
 
     public Box(double capacity) {
         this.capacity = capacity;
-        this.box = new ArrayList<>();
+        this.items = new ArrayList<>();
     }
 
     public double weight() {
         double weight = 0;
-        if (this.box.isEmpty()) {
+        if (this.items.isEmpty()) {
             return 0.0;
         }
-        for (Double item : box) {
-            weight +=item;
+        for (Packable item : items) {
+            weight +=item.weight();
         }
         return weight;
     }
 
-    public void add (Book book) {
-        if (this.weight() + book.weight() <= this.capacity) {
-            box.add(book.weight());
-        }
-    }
-
-    public void add (CD cd) {
-        if (this.weight() + cd.weight() <= this.capacity) {
-            box.add(cd.weight());
+    public void add (Packable item) {
+        if (this.weight() + item.weight() <= this.capacity) {
+            this.items.add(item);
         }
     }
 
     @Override
     public String toString() {
-        return "Box: " + this.box.size() + " items, total weight " + this.weight() + " kg";
+        return "Box: " + this.items.size() + " items, total weight " + this.weight() + " kg";
     }
 }
