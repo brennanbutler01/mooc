@@ -20,4 +20,10 @@ public class ShoppingCart {
         }
         return total;
     }
+
+    public void print() {
+        for (Item item : this.cart.values()) {
+            System.out.println(item);
+        }
+    }
 }
