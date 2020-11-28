@@ -14,7 +14,7 @@ public class Item {
     }
 
     public void increaseQuantity() {
-        this.qty++;
+        this.qty+=1;
     }
 
     @Override

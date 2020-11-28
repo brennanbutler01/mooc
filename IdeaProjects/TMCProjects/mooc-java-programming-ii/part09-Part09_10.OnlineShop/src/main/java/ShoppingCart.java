@@ -11,8 +11,9 @@ public class ShoppingCart {
         Item newItem = new Item(product, 1, price);
         if (this.cart.containsKey(product)) {
             this.cart.get(product).increaseQuantity();
+        } else {
+            cart.put(product, newItem);
         }
-        cart.put(product, newItem);
     }
 
     public int price() {
