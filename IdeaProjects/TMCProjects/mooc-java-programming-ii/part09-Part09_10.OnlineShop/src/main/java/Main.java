@@ -3,10 +3,19 @@
 public class Main {
 
     public static void main(String[] args) {
-        Warehouse amazon = new Warehouse();
+        Warehouse warehouse = new Warehouse();
+        warehouse.addProduct("coffee", 5, 1);
 
-        amazon.addProduct("Product 1", 300, 25);
+        System.out.println("stock:");
+        System.out.println("coffee:  " + warehouse.stock("coffee"));
+        System.out.println("sugar: " + warehouse.stock("sugar"));
 
-        System.out.println(amazon.price("Product 2"));
+        System.out.println("taking coffee " + warehouse.take("coffee"));
+        System.out.println("taking coffee " + warehouse.take("coffee"));
+        System.out.println("taking sugar " + warehouse.take("sugar"));
+
+        System.out.println("stock:");
+        System.out.println("coffee:  " + warehouse.stock("coffee"));
+        System.out.println("sugar: " + warehouse.stock("sugar"));
     }
 }
