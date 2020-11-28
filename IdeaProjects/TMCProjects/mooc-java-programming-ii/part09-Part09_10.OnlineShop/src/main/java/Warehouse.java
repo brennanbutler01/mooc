@@ -1,5 +1,7 @@
-import java.util.Map;
 import java.util.HashMap;
+import java.util.Map;
+import java.util.Set;
+
 public class Warehouse {
     private Map<String, Integer> priceMap;
     private Map<String, Integer> stockMap;
@@ -38,5 +40,10 @@ public class Warehouse {
             }
         }
         return false;
+    }
+
+    public Set<String> products(){
+        Set<String> products = priceMap.keySet();
+        return products;
     }
 }
