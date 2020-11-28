@@ -1,25 +1,18 @@
 public class Dog extends Animal {
-    private String name;
 
     public Dog(String name) {
         super(name);
-        this.name = name;
+    }
+    public void makeNoise() {
+        this.bark();
     }
 
     public Dog() {
         super("Dog");
-        this.name = "Dog";
     }
 
     public void bark () {
-        System.out.println(this.name + " barks");
+        System.out.println(super.getName() + " barks");
     }
 
-    public void eat() {
-        super.eat();
-    }
-
-    public void sleep() {
-        super.sleep();
-    }
 }

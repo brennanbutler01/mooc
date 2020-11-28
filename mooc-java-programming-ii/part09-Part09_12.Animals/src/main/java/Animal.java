@@ -1,4 +1,4 @@
-public abstract class Animal {
+public abstract class Animal implements NoiseCapable{
     private String name;
 
     public Animal(String name){
@@ -6,12 +6,15 @@ public abstract class Animal {
     }
 
     public void eat() {
-        System.out.println(this.name + " sleeps");
-    }
-
-    public void sleep() {
         System.out.println(this.name + " eats");
     }
 
+    public String getName(){
+        return this.name;
+    }
+
+    public void sleep() {
+        System.out.println(this.name + " sleeps");
+    }
 
 }
