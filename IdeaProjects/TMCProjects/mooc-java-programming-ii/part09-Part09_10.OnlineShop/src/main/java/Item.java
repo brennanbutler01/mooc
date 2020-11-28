@@ -19,6 +19,6 @@ public class Item {
 
     @Override
     public String toString(){
-        return this.product + ": " + this.price();
+        return this.product + ": " + this.qty;
     }
 }
