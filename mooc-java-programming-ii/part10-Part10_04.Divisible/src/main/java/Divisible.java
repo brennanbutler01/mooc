@@ -1,4 +1,3 @@
-
 import java.util.ArrayList;
 import java.util.stream.Collectors;
 
@@ -19,7 +18,16 @@ public class Divisible {
     }
 
     public static ArrayList<Integer> divisible(ArrayList<Integer> numbers) {
-        return new ArrayList<>();
+        ArrayList<Integer> values = numbers.stream()
+                .filter(value -> {
+                    if (value % 2 == 0 || value % 3 == 0 || value % 5 == 0) {
+                        return true;
+                    }
+                    return false;
+                })
+                .collect(Collectors.toCollection(ArrayList::new));
+
+        return values;
     }
 
 }
